@@ -41,4 +41,5 @@ export const LINKS = [
   { name: "WFMJ", category: "News & Media", subcategory: "TV", url: "https://www.wfmj.com/", description: "Locally owned NBC television station covering Youngstown-Warren." },
   { name: "Mahoning Matters", category: "News & Media", subcategory: "Newspaper", url: "https://www.mahoningmatters.com/", description: "Online news outlet founded by former Vindicator journalists." },
   { name: "Business Journal Daily", category: "News & Media", subcategory: "Newspaper", url: "https://businessjournaldaily.com/", description: "Locally owned business news publication for the Mahoning Valley." },
+  { name: "The Review Newspapers", category: "News & Media", subcategory: "Newspaper", url: "https://www.thereviewnewspapers.com/", description: "Weekly newspaper covering all of Mahoning and Trumbull counties." },
 ];
