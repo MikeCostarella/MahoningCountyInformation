@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Mahoning County Government", category: "Government", subcategory: "County", url: "https://www.mahoningcountyoh.gov/", description: "Official Mahoning County website with departments and county services." },
